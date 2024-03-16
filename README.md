@@ -11,6 +11,10 @@ This project is a clone of the popular e-commerce website, Amazon.. The website 
 - `HTML`
 - `CSS`
 
+## Live Site
+
+
 
 ## Demo 
-
+![Screenshot 1](https://github.com/therishabhshrivastava/amazon-landingPage-clone/blob/main/assets/demo-ss1.png)
+![Screenshot 2](https://github.com/therishabhshrivastava/amazon-landingPage-clone/blob/main/assets/demo-ss2.png)
