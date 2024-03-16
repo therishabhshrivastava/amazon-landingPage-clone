@@ -11,7 +11,7 @@ This project is a clone of the popular e-commerce website, Amazon.. The website 
 - `HTML`
 - `CSS`
 
-### **Live Site**  
+### **Live Site**   https://amazon-landing-page-clone.vercel.app/
 
 
 
